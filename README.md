@@ -2,7 +2,7 @@
 
 ## Architecture Diagram
 
-![Real-Time Event Booking System Architecture Diagram](./docs/images/event-booking-architecture.png)
+![Real-Time Event Booking System Architecture Diagram](./images/event-booking-architecture.png)
 
 A backend system for managing events, seat reservations, cancellations, and asynchronous booking notifications.
 
