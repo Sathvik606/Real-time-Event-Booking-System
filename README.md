@@ -1,5 +1,9 @@
 # Real-Time Event Booking & Seat Management System
 
+## Architecture Diagram
+
+![Real-Time Event Booking System Architecture Diagram](./docs/images/event-booking-architecture.png)
+
 A backend system for managing events, seat reservations, cancellations, and asynchronous booking notifications.
 
 The primary focus of this project is **preventing seat overbooking under concurrent requests** while maintaining database consistency, fast event reads, and reliable booking operations.
